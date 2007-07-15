@@ -1,0 +1,17 @@
+abstract: Test your Catalyst application with Selenium
+author: Jonathan Rockway <jrockway@cpan.org>
+distribution_type: module
+generated_by: Module::Install version 0.64
+license: Perl
+name: Test-WWW-Selenium-Catalyst
+no_index: 
+  directory: 
+    - inc
+    - t
+requires: 
+  Alien::SeleniumRC: 0
+  Catalyst::Runtime: 5.7001
+  Catalyst::Utils: 0
+  Test::More: 0
+  Test::WWW::Selenium: 0
+version: 0.01
